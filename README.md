@@ -11,5 +11,6 @@ To use the program change the parts with all bold words.
 
 In the prompt change
 
-"NICHE 1"
-"NICHE 2"
+"NICHE"
+"TOPIC 1"
+"TOPIC 2"
